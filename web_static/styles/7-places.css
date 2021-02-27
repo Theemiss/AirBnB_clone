@@ -9,7 +9,7 @@ section.places h1{
     font-size: 30px;
     flex: 100%;
 }
-div.holder {
+div.article {
     width: 390px;
     padding: 20px;
     margin: 20px;
@@ -19,6 +19,7 @@ div.holder {
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
+    position: relative;
 
 }
 section.places article h2 {
